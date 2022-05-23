@@ -26,8 +26,6 @@
 
     - [Link to the cse676brats_models](https://www.kaggle.com/datasets/atulsingh1996/cse676-brats-semantic-segmentation) Copy this link and paste it in the search box.
 
-
-
     ![](/Images/paste_in_search_add.jpeg)
 
     - Click on Add
