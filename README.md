@@ -22,7 +22,7 @@
   !['Copy & Edit'](/Images/copy_edit.png)
 
 ### 3. Adding Dataset to Kaggle Project
-######This step is only necessary if you are not using the Brats Dataset.
+###### This step is only necessary if you are not using the Brats Dataset.
 
 - Click on the "Add Dataset" button
     ![](/Images/add_data.jpeg)
