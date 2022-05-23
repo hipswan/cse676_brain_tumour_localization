@@ -13,12 +13,14 @@
 
 ### 2. Configuring Kaggle Project
 - Link to our Kaggle repository:
-    [cse676project_brain_tumour_segmentation](/Images/copy_edit.png)
+    [cse676project_brain_tumour_segmentation](https://www.kaggle.com/thesilentpsycho/braintumorsegmentationcse676)
+    Brats Dataset should be already added to the project.
 
 - Click on the "Copy & Edit" button
   !['Copy & Edit'](/Images/copy_edit.png)
 
 ### 3. Adding Dataset to Kaggle Project
+######This step is only necessary if you are not using the Brats Dataset.
 
 - Click on the "Add Dataset" button
     ![](/Images/add_data.jpeg)
